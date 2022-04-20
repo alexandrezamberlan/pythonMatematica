@@ -31,3 +31,24 @@
 #7 - Faça um programa Python que receba duas notas, calcule a média aritmética e mostre o resultado.
 #    Além disso, deve mostrar ao lado da média Aprovado (se média >= 7.0) Reprovado (se média <= 3.0),
 #    Exame (se média entre 3.0 e 7.0)
+
+#=======================
+#8 - Faça um programa em Python que manipule listas com números inteiros, representando
+#    valores de glicemia (45 a 450) de um doente diabético. O programa deve receber valores de 
+#    glicemia (um a um) até que o usuário não queira mais cadastrá-los. Os dados digitados
+#    devem ser inseridos na lista listaDadosOriginais.
+
+#9 - Faça uma adição/complemento no código anterior para mostrar os valores de glicemia
+#    da listaDadosOriginais, um abaixo do outro.
+
+#10 - Faça um complemento no código anterior para copiar a listaDadosOriginais para a 
+#     listaDadosOrdenados, que na sequência precisa ser ordenada.
+
+#11 - Faça um complemento no código anterior para mostrar o menor e o maior valores
+#     de glicemia cadastrados.
+
+#12 - Faça um complemento no código anterior para mostrar a média dos valores de 
+#     glicemia cadastros e na sequência contar e mostrar quantos valores estão abaixo e
+#     acima da média.
+
+

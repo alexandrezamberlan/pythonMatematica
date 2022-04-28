@@ -4,16 +4,9 @@ Sugestão de site para aprender Python: https://www.w3schools.com/python/
 
 O que é uma linguagem?
 
-
-
 Para que serve uma linguagem?
 
-
-
 Linguagens artificiais de computadores são utilizadas para:
-
-
-
 
 Em Python há instruções:
 1) básicas: escrita (print), leitura (input) e atribuição (=)

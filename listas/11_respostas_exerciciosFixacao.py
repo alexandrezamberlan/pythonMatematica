@@ -14,7 +14,7 @@ while (True) :
 numeros_inteiros.sort()
 
 # exibe toda a lista, numa tacada só
-print(numeros_inteiros) 
+print(numeros_inteiros)
 
 # exibe toda a lista, um valor por vez
 for i in numeros_inteiros:
